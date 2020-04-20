@@ -1,0 +1,92 @@
+{
+  "patient": [
+    {
+      "name": "Akash",
+      "address": "jaipur",
+      "mobile": "123",
+      "doctor": "santinath",
+      "status": "recovered",
+      "gender": "male",
+      "id": 1
+    },
+    {
+      "name": "Dhruv",
+      "address": "Bangaluru",
+      "mobile": "1234",
+      "doctor": "shubhakar",
+      "status": "infected",
+      "gender": "male",
+      "id": 2
+    },
+    {
+      "name": "Harsh",
+      "address": "jaipur",
+      "mobile": "12345",
+      "doctor": "shahrukh",
+      "status": "infected",
+      "gender": "male",
+      "id": 3
+    },
+    {
+      "name": "Rajendra",
+      "address": "Bangaluru",
+      "mobile": "123456",
+      "doctor": "sunil",
+      "status": "infected",
+      "gender": "male",
+      "id": 4
+    },
+    {
+      "name": "Tanya",
+      "address": "jaipur",
+      "mobile": "1234567",
+      "doctor": "santinath",
+      "status": "infected",
+      "gender": "female",
+      "id": 5
+    },
+    {
+      "name": "Rob",
+      "address": "america",
+      "mobile": "12345678",
+      "doctor": "sunil",
+      "status": "infected",
+      "gender": "male",
+      "id": 6
+    }
+  ],
+  "admin": [
+    {
+      "email": "admin@test.com",
+      "password": "admin",
+      "id": 1
+    },
+    {
+      "email": "monit@test.com",
+      "password": "monit",
+      "id": 2
+    }
+  ],
+  "doctor": [
+    {
+      "username": "sunil",
+      "password": "sunil",
+      "id": 1
+    },
+    {
+      "username": "shahrukh",
+      "password": "shahrukh",
+      "id": 2
+    },
+    {
+      "username": "shubhakar",
+      "password": "shubhakar",
+      "id": 3
+    },
+    {
+      "username": "santinath",
+      "password": "santinath",
+      "id": 4
+    }
+  ]
+}
